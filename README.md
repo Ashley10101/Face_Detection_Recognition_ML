@@ -12,7 +12,7 @@ Language: Python
 ## Implementation
 run main.py  
 sample result    
-![Image text](https://github.com/Ashley10101/Face_Detection_Recognition_ML/sample_result.png)
+![image](https://github.com/Ashley10101/Face_Detection_Recognition_ML/blob/main/sample_result.png)
 
 ## Notification
 The code is not concerned with correctness, but mainly focus on manual implementation of traditional machine learning algorithms
