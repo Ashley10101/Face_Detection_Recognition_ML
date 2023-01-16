@@ -1,5 +1,6 @@
 # Face Detection and Recognition
-Contains self-made datasets, as well as face recognition systems implemented using traditional machine learning algorithms. __Highlight:__ all algorithms are implemented manually without any integrated package calls.  
+Contains self-made datasets, as well as face recognition systems implemented using traditional machine learning algorithms.  
+__Highlight:__ all algorithms are implemented manually without any integrated package calls.   
 Machine Learning Algorithms: Adaboost  
 Language: Python
 ## Overall Process
@@ -11,7 +12,7 @@ Language: Python
 ## Implementation
 run main.py  
 sample result    
-![Image text](https://raw.github.com/Ashley10101/Face_Detection_Recognition_ML/sample_result.png)
+![Image text](https://github.com/Ashley10101/Face_Detection_Recognition_ML/sample_result.png)
 
 ## Notification
 The code is not concerned with correctness, but mainly focus on manual implementation of traditional machine learning algorithms
