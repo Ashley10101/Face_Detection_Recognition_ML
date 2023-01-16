@@ -1,7 +1,7 @@
 # Face Detection and Recognition
 Contains self-made datasets, as well as face recognition systems implemented using traditional machine learning algorithms.  
 __Highlight:__ all algorithms are implemented manually without any integrated package calls.   
-Machine Learning Algorithms: Adaboost  
+Machine Learning Algorithms: Adaboost, PCA  
 Language: Python
 ## Overall Process
 (1) Dataset Creation  
